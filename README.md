@@ -1,2 +1,2 @@
 # Python-Labs
-This is a collection of my completed Lab for my College python Course
+This is a collection of my completed Labs from my College Python Course
